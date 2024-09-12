@@ -1,0 +1,22 @@
+.textField {
+  padding: 10px 10px;
+  font-size: large;
+  border: 1px solid gray;
+  margin-bottom: 15px;
+  border-radius: 10px;
+  color: rgb(173, 173, 173);
+}
+
+.textField input {
+  border: none;
+  outline: none;
+}
+
+label {
+  display: block;
+  text-align: left;
+  margin-bottom: 5px;
+  color: rgb(65, 61, 61);
+  font-size: 15px;
+  font-weight: bolder;
+}

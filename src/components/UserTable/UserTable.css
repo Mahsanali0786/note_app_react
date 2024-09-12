@@ -1,0 +1,8 @@
+.table {
+    margin-top: 50px;
+    margin-left: 200px;
+}
+
+.table tr td:first-child{
+    width: 100px;
+}
